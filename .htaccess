@@ -1,0 +1,6 @@
+RewriteEngine on
+RewriteRule lilly/(.+)$ https://wildhottiegirls.com/profile.php?id=$1&slog=lilly [R=301,L]
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteRule ^(.*)$ public/$1 [L]
+</IfModule>
