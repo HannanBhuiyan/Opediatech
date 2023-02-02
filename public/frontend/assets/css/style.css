@@ -381,7 +381,7 @@ hero section start here here
 .hero__section {
     display: flex;
     align-items: center;
-    padding: 100px 0 20px;
+    padding: 100px 0 60px;
     text-align: center;
 }
 
